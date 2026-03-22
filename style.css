@@ -94,6 +94,15 @@ footer {
     color: #4CAF50; 
 }
 
+#contact a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+#contact a:hover {
+    text-decoration: underline;
+}
+
 @media (max-width: 600px) {
     .container {
         margin: 20px;
